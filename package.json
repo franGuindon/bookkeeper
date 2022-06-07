@@ -1,0 +1,19 @@
+{
+  "name": "bookkeeper",
+  "version": "1.0.0",
+  "description": "## Fuck you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franGuindon/bookkeeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franGuindon/bookkeeper/issues"
+  },
+  "homepage": "https://github.com/franGuindon/bookkeeper#readme"
+}
